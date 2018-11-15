@@ -5,3 +5,5 @@
 
 ### Correlation between Economic GDP per ANZSIC industry to pollution
 [Jupyter Notebook](https://notebooks.azure.com/shaun-tirubeni/libraries/data-science/html/Total%20pollution%20to%20GDP%20per%20Australian%20ANZSIC%20Analysis/Total%20pollution%20to%20GDP%20per%20Australian%20ANZSIC.ipynb)
+
+![Analysis](https://notebooks.azure.com/shaun-tirubeni/libraries/data-science/raw/Total%20pollution%20to%20GDP%20per%20Australian%20ANZSIC%20Analysis%2FAirPollutionToGDP2015_2016.png)
